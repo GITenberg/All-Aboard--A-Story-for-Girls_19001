@@ -1,0 +1,33 @@
+_repo: All-Aboard--A-Story-for-Girls_19001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newberry, Fannie E. (Fannie Ellsworth)
+    alias: Newberry, Fanny E. (Fanny Ellsworth)
+    birthdate: 1848
+    deathdate: 1942
+    gutenberg_agent_id: '2003'
+    url: http://www.gutenberg.org/2009/agents/2003
+description: Cover -- Contents.
+gutenberg_issued: '2006-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Fathers and daughters -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Twins -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+title: 'All Aboard: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/19001
